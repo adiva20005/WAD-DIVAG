@@ -67,7 +67,7 @@
 </head>
 <body>
     <div class="login-container">
-        <h2>Login 👻</h2>
+        <h2>Login HooOOo👻</h2>
         <form method="POST" action="{{ route('login') }}">
             @csrf
 
